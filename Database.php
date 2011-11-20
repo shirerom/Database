@@ -1,11 +1,10 @@
 <?php
 
-/**
- * Version 2011-02-15
- */
 
 
 class DatabaseException extends Exception {}
+
+
 
 /**
  *
